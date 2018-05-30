@@ -13,6 +13,9 @@ public class ConfigServerApplication {
 	}
 }
 
+//http://localhost:8888/limits-service/default
+//http://localhost:8888/limits-service/qa
+//http://localhost:8888/limits-service/dev
 
 //https://cloud.spring.io/spring-cloud-config/
 //https://spring.io/guides/gs/centralized-configuration/
